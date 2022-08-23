@@ -1,2 +1,2 @@
 fastai
-sickit-image
+scikit-image
